@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://hadijmldn.github.io/csb-p649pw/static/css/main.4566fa66.chunk.css",
+    "main.js": "https://hadijmldn.github.io/csb-p649pw/static/js/main.6c7fce82.chunk.js",
+    "main.js.map": "https://hadijmldn.github.io/csb-p649pw/static/js/main.6c7fce82.chunk.js.map",
+    "runtime-main.js": "https://hadijmldn.github.io/csb-p649pw/static/js/runtime-main.2cb41533.js",
+    "runtime-main.js.map": "https://hadijmldn.github.io/csb-p649pw/static/js/runtime-main.2cb41533.js.map",
+    "static/css/2.a3da2932.chunk.css": "https://hadijmldn.github.io/csb-p649pw/static/css/2.a3da2932.chunk.css",
+    "static/js/2.8416c346.chunk.js": "https://hadijmldn.github.io/csb-p649pw/static/js/2.8416c346.chunk.js",
+    "static/js/2.8416c346.chunk.js.map": "https://hadijmldn.github.io/csb-p649pw/static/js/2.8416c346.chunk.js.map",
+    "index.html": "https://hadijmldn.github.io/csb-p649pw/index.html",
+    "static/css/2.a3da2932.chunk.css.map": "https://hadijmldn.github.io/csb-p649pw/static/css/2.a3da2932.chunk.css.map",
+    "static/css/main.4566fa66.chunk.css.map": "https://hadijmldn.github.io/csb-p649pw/static/css/main.4566fa66.chunk.css.map",
+    "static/js/2.8416c346.chunk.js.LICENSE.txt": "https://hadijmldn.github.io/csb-p649pw/static/js/2.8416c346.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb41533.js",
+    "static/css/2.a3da2932.chunk.css",
+    "static/js/2.8416c346.chunk.js",
+    "static/css/main.4566fa66.chunk.css",
+    "static/js/main.6c7fce82.chunk.js"
+  ]
+}
